@@ -1,0 +1,17 @@
+beautifulsoup4>=4.9.3
+lxml>=4.6.5
+selenium>=3.141.0
+soupsieve>=2.2.1
+urllib3>=1.26.6
+pandas~=1.5.2
+selenium-wire==5.1.0
+aiofiles~=23.2.1
+requests~=2.31.0
+Pillow~=9.4.0
+bs4~=0.0.1
+coloredlogs~=15.0.1
+psycopg2-binary
+webdriver-manager
+fake-useragent
+pyyaml
+asyncpg
